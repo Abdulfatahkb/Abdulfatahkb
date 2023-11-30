@@ -1,0 +1,9 @@
+# trans-language program
+
+* One can simply define the c or c++ keywords 
+    in  the translanguage.h file included
+* include the file into your program 
+* and use the definations your customize 
+* mind you this is just a fun project but at 
+* thesame time it expressed the power, freedom 
+* and versatility of c/c++programming languages. 
